@@ -1,0 +1,54 @@
+{
+    "sidebar": {
+        "sidebarLogo": "سبيشيل",
+        "sidebarLogoTitle": "متجر الهدايا",
+        "sidebarLogoLink1": "الرئيسية",
+        "sidebarLogoLink2": "طرق الدفع"
+    },
+    "payment": {
+        "subnav": {
+            "update": "تحديثات المنصة",
+            "subnavToggleTitle": "متجر الهدايا",
+            "subnavToggle": {
+                "subnavTogglelink1": "الملف الشخصي",
+                "subnavTogglelink2": "تحديثات المنصة",
+                "subnavTogglelink3": "الاقتراحات",
+                "subnavTogglelink4ChangeLang": "تغيير اللغة",
+                "subnavTogglelink5": "تسجيل الخروج"
+            }
+        },
+        "header": {
+            "headerpath": {
+                "headerpath1": "الرئيسية",
+                "headerpath2": "طرق الدفع",
+                "headerhelpingTittle":"مساعدة",
+                "headerhelping":{
+                    "headerhelpingTittleinner":"المقالات",
+                    "headerhelpingChangeSizeLarge":"تكبير",
+                    "headerhelpingChangeSizeSmall":"تصغير",
+                    "headerhelpingSearch":"ابحث عن ما تريد ...",
+                    "headerhelpinglink1":"اعداد المتجر الاول"
+
+                }
+            },
+            "provider":{
+                "providerTitle":"توثيق المتجر (مكتمل)",
+                "providerDescription":"يمكنك الآن الإستفادة الكاملة من إمكانيات المنصة",
+                "providerNote":"فقط مالك المتجر يستطيع الدخول لتوثيق المتجر."
+            },
+            "banks":{
+                "banksTitle1":"المحافظ الرقمية",
+                "banksTitle2":"اشتري الان وادفع لاحقا",
+                "banksTitle3":"الحسابات البنكية",
+                "banksTitle3Details":{
+                    "bankButton":"حساب جديد",
+                    "bankDetails":"لا يوجد لديك اي حساب بنكي"
+                }
+            }
+        }
+    },
+    "footer":{
+        "footerDescription":"احسنتك التجارة؟ انطلق بتجارتك اليوم مع سلة بسهولة و بدون عمولة!",
+        "footerButton":"انشئ متجرك مجانا"
+    }
+}

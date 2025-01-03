@@ -1,0 +1,54 @@
+{
+    "sidebar": {
+        "sidebarLogo": "Special",
+        "sidebarLogoTitle": "Gift Shop",
+        "sidebarLogoLink1": "Home",
+        "sidebarLogoLink2": "Payment"
+    },
+    "payment": {
+        "subnav": {
+            "update": "Platform updates",
+            "subnavToggleTitle": "Gift Shop",
+            "subnavToggle": {
+                "subnavTogglelink1": "Profile",
+                "subnavTogglelink2": "Platform updates",
+                "subnavTogglelink3": "Suggestions",
+                "subnavTogglelink4ChangeLang": "Change Language",
+                "subnavTogglelink5": "Logout"
+            }
+        },
+        "header": {
+            "headerpath": {
+                "headerpath1": "Home",
+                "headerpath2": "Payment",
+                "headerhelpingTittle": "Help",
+                "headerhelping": {
+                    "headerhelpingTittleinner": "Articles",
+                    "headerhelpingChangeSizeLarge": "Increase",
+                    "headerhelpingChangeSizeSmall": "Decrease",
+                    "headerhelpingSearch": "Search for ...",
+                    "headerhelpinglink1": "First Store Setup"
+                }
+            },
+            "provider": {
+                "providerTitle": "Store Certification (Complete)",
+                "providerDescription": "You can now fully take advantage of the platform's features.",
+                "providerNote": "Only the owner of the store can access the store certification."
+            },
+            "banks": {
+                "banksTitle1": "Digital Branches",
+                "banksTitle2": "Buy now and pay later",
+                "banksTitle3": "Bank Accounts",
+                "banksTitle3Details": {
+                    "bankButton": "New Account",
+                    "bankDetails": "No bank account yet"
+                }
+            }
+        }
+    },
+    "footer": {
+        "footerDescription": "Thanks for your business? Start your business today with a simple and convenient shopping cart!",
+        "footerButton": "Start your business now!"
+    }
+
+}
